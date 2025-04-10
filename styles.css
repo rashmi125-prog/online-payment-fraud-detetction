@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    background-color: #f0f0f0;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+input, button {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
